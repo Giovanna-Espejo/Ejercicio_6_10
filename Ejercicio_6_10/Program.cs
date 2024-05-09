@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using MathNet.Numerics.Distributions;
 
-namespace Simulación_U3
+namespace Ejercicio_6_10
 {
-    internal class Ejercicio_6_10
+    internal class Program
     {
         static void Main()
         {
